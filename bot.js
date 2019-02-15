@@ -2443,4 +2443,4 @@ client.on('message', function(message) {
 	}
 });
 })
-client.login(process.env.BOT_TOKEN);
+client.login('NTQ1MTQ0MzQxNDkyOTI0NDE4.D0ev2g.j-qlMgEOZz481Uk20L93WI16Y-s');
