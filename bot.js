@@ -2443,4 +2443,4 @@ client.on('message', function(message) {
 	}
 });
 })
-client.login('NTQ1MTQ0MzQxNDkyOTI0NDE4.D0ev2g.j-qlMgEOZz481Uk20L93WI16Y-s');
+client.login('NTM4NjIwNzAxOTY4Njk1Mjk2.D0fHjg.R7l9G2ta5yRYGWaJwNys6Wsq82c');
